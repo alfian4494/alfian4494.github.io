@@ -9,3 +9,11 @@
 section {
   scroll-margin-top: 60px;
 }
+
+.certificates-img {
+  width: 100%;
+}
+
+#certificates .row > * {
+  padding: 0;
+}
